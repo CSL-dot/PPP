@@ -33,7 +33,7 @@
   - `out`：存储PPP解算结果文件
   - `logs`：单站解算日志
 
-![目录结构图](Directory Structure.PNG)
+![本地路径](<Directory Structure.PNG>)
 
 ## 2. 使用方法
 1. 修改测站目录下 `conf` 配置文件；
