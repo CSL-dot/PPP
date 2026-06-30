@@ -18,7 +18,6 @@ stations = [
     "XIKO", "WHDH", "DZDX", "HSJD", "ZHHY", "SHXJ", "WHXC"
 ]
 
-PASSWORD = "123456"
 SERVER = "116.211.238.25:2101"
 MOUNT = "FIXEDGW-CGCS2000"
 SAVE_DIR_TEMPLATE = "./{station}/rtknavi"  
